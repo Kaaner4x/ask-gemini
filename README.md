@@ -4,7 +4,7 @@ A lightweight, robust, and modern C# console application that brings the power o
 
 ## 🎥 Showcase
 
-https://github.com/user-attachments/assets/showcase.mp4
+<video src="https://raw.githubusercontent.com/Kaaner4x/ask-gemini/main/showcase.mp4" width="100%" controls="controls"></video>
 
 ## 📖 What is AskGemini?
 
